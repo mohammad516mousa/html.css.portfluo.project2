@@ -1,0 +1,229 @@
+
+.div-container{
+    width: 100%;
+    height: 3000px;
+    background-color: rgba(45,61,71,255);
+}
+
+
+.navbar{
+    width: 100%;
+    height: 100px;
+    background-color: rgba(45,61,71,255);
+}
+.ul-nav{
+    position: relative;left: 400px;
+}
+
+
+
+.container1{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.container1-1{
+    width: 50%;
+    height: 500px;
+    background-color: rgba(45,61,71,255);
+}
+.h2-1{
+    color: white;
+    padding-top: 10px;
+}
+.p-container{
+    color: rgba(193,193,193,255);
+    font-size: 25px;
+}
+.container1-2{
+    width: 50%;
+    height: 500px;
+}
+.imgcontainer1-2{
+    width: 100%;
+    height: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.container2{
+    width: 100%;
+    height: 1500px;
+    background-color: rgba(45,61,71,255);
+}
+.div-h1{
+
+}
+
+
+
+.h1-container2{
+    text-align: center;
+    font-size: 50px;
+}
+
+
+.div2-container2{
+display: flex;
+flex-wrap: wrap;
+}
+
+
+.div3-container2{
+    display: flex;
+    flex-wrap: wrap;
+    }
+
+    .div4-container2{
+        display: flex;
+        flex-wrap: wrap;
+        }
+
+        .div5-container2{
+            display: flex;
+            flex-wrap: wrap;
+            }
+
+
+
+
+
+
+
+
+
+.first1-cors{
+    width: 50%;
+    height: 400px;
+    background-color: rgba(45,61,71,255);
+}
+.first2-cors{
+    width: 50%;
+    height: 400px;
+    background-color: rgba(45,61,71,255);
+}
+.first3-cors{
+    width: 50%;
+    height: 400px;
+    background-color: rgba(45,61,71,255);
+}
+.first4-cors{
+    width: 50%;
+    height: 400px;
+    background-color: rgba(45,61,71,255);
+}
+
+
+.p-container2{
+    font-size: 50px;
+    color: rgba(193,193,193,255);
+}
+
+
+.first-cors2{
+    width: 50%;
+    height: 400px;
+    background-color: black;
+}
+
+.img-first-cors2{
+    height: 400px;
+    width: 100%;
+}
+
+
+
+.last-container2{
+    width: 100%;
+    height: 450px;
+    background-color: rgba(45,61,71,255);
+}
+
+.foot-container2{
+    font-size: 20px;
+    margin-left: 00%;
+    display: flex;
+    margin-top: 8%;
+}
+
+.foot2-container2{
+position: relative;left: 600px;}
+
+
+hr{
+    color: white;
+}
+
+.div-h1{
+
+}
+
+
+@media screen and (max-width:675px) {
+    .container1{
+        display: block;
+    }
+
+
+
+    
+    .container1-1{
+        width: 100%;
+    }
+    .container1-2{
+        width: 100%;
+
+    }
+
+    .container2{
+        margin-top: 140%;
+    }
+    
+    .div2-container2{
+        display: block;
+        margin-top: 20%;
+    }
+
+
+    .first1-cors{
+        width: 100%;
+    }
+
+    .first2-cors{
+        width: 100%;
+    }
+    .first3-cors{
+        width: 100%;
+    }
+    .first4-cors{
+        width: 100%;
+    }
+
+
+.div-h1{
+    margin-top: 30%;
+}
+
+
+
+
+
+.div-container{
+    height: 6000px;
+}
+
+
+
+    .first-cors2{
+        width: 100%;
+    }
+}
